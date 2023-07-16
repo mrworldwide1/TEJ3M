@@ -1,1 +1,1 @@
-Project collab for the TEJ3M Grade 11 Computer Engineering course, between Archisman Nath and Lucas L., creating an Arduino "Mood Machine" counter for use in a classroom. Completed as the final course summative
+Project collab for the TEJ3M Grade 11 Computer Engineering course, between Archisman Nath and Lucas L., creating an Arduino "Mood Machine" counter for use in a classroom. Completed as the final course summative.
